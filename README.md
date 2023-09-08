@@ -20,8 +20,6 @@ Results:
 
 Model 4's factors give a lot of information about what to look for in a home and what, if any, changes should be made to boost its selling value.
 
-Coefficients for Model 4
-
 When the quality of building was made better, the price of Grade_High_Quality and Grade_Above_Average houses went up by $254K and $97K, respectively, compared to the price of houses of average grade. It has also been shown that the state of a home has a good effect on its price, with the best condition adding about $161k to the price compared to the worst condition. When the number of beds goes up, the price goes down, according to our bedroom factors. This doesn't make sense and needs to be looked into more.
 
 Conclusions
